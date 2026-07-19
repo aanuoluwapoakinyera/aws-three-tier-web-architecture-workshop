@@ -34,6 +34,8 @@ docker compose up --build -d
 
 Open **http://localhost:8080/#/**
 
+For step-by-step instructions using individual `docker build` and `docker run` commands (no Compose), see **[DOCKER.md](DOCKER.md)**.
+
 
 ## Security
 
